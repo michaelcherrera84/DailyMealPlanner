@@ -27,11 +27,11 @@ The tutorial can be found at:\
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/michaelcherrera84/DailyMealPlanner.git
    ```
 2. **Navigate into the project directory:**
    ```bash
-   cd yourproject
+   cd DailyMealPlanner
    ```
 3. **Install dependencies:**
    ```bash
